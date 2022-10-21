@@ -1,6 +1,3 @@
-# This is an h1 Header
-## This is an h2 Header
-### This is an h3 Header
-#### This is an h4 Header
-##### This is an h5 Header
-###### This is an h6 Header
+# The Jedi Code
+
+![Image of Obiwan Kenobi](https://api.time.com/wp-content/uploads/2015/12/star-wars-episode-iii-revenge-of-the-sith-obi-wan.jpg)
