@@ -11,6 +11,6 @@ jediCode = ['There is no emotion, there is peace.',
 for code in jediCode:
   print(code + '\n')
 ```
-- [] Protect Luke Skywalker
-- [] Save Leia
-- [] Confront Darth Vader
+- [ ] Protect Luke Skywalker
+- [ ] Save Leia
+- [ ] Confront Darth Vader
